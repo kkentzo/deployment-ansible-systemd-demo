@@ -1,0 +1,10 @@
+[Unit]
+Description=Demo service
+
+[Service]
+User=demo
+Group=demo
+ExecStart=/usr/local/bin/demo
+
+[Install]
+WantedBy=multi-user.target
