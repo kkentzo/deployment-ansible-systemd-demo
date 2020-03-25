@@ -1,1 +1,1 @@
-This repo contains the material used in my article "Deploying a service using ansible and systemd" ([original link](https://kkentzo.github.io/2020/03/25/deploying-with-ansible-systemd/), [post to dev.to](https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11)).
+This repo contains the material used in the article "Deploying a service using ansible and systemd" ([original link](https://kkentzo.github.io/2020/03/25/deploying-with-ansible-systemd/), [post to dev.to](https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11)).
