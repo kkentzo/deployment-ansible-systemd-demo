@@ -5,4 +5,4 @@ build:
 .PHONY: deploy
 deploy: build
 	cp ./bin/demo ./roles/demo/files/demo
-	ansible-playbook -i hosts demo.yml
+	ansible-playbook -i ./hosts demo.yml
